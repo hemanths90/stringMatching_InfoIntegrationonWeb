@@ -1,0 +1,23 @@
+
+public class stringMatch {
+	public static void main(String[] args){
+		
+		System.out.println("Hello");
+		
+		File fin = new File("zagat.txt");
+	}
+}
+
+private static void readFile1(File fin) throws IOException {
+	FileInputStream fis = new FileInputStream(fin);
+ 
+	//Construct BufferedReader from InputStreamReader
+	BufferedReader br = new BufferedReader(new InputStreamReader(fis));
+ 
+	String line = null;
+	while ((line = br.readLine()) != null) {
+		System.out.println(line);
+	}
+ 
+	br.close();
+}

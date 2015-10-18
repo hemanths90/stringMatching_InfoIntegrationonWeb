@@ -1,0 +1,52 @@
+package uk.ac.shef.wit.simmetrics;
+
+import java.io.*;
+import java.util.ArrayList;
+//import uk.ac.shef.wit.simmetrics.similaritymetrics.*;
+
+public class stringMatch {
+	private static void readFile1(File fin) throws IOException {
+		FileInputStream fis = new FileInputStream(fin);
+		BufferedReader br = new BufferedReader(new InputStreamReader(fis));
+		String line = null;
+		ArrayList<String> zagot = new ArrayList<String>();
+		
+		while ((line = br.readLine()) != null) {
+			String tmpStr = line.substring(line.indexOf("---")+3);
+			zagot.add(tmpStr);
+		}
+		
+		for(String s: zagot)
+			System.out.println(s);
+		
+		br.close();
+	}
+	
+	private static void readFile2(File fin) throws IOException {
+		FileInputStream fis = new FileInputStream(fin);
+		BufferedReader br = new BufferedReader(new InputStreamReader(fis));
+		String line = null;
+		ArrayList<String> fodors = new ArrayList<String>();
+		
+		while ((line = br.readLine()) != null) {
+			String tmpStr = line.substring(line.indexOf("---")+3);
+			fodors.add(tmpStr);
+		}
+		
+		for(String s: fodors)
+			System.out.println(s);
+		
+		br.close();
+	}
+	
+	public static void main(String[] args)throws IOException {
+		
+		System.out.println("**********Zagot.txt*********");
+		File fin1 = new File("/InputFiles/zagat.txt");
+		readFile1(fin1);
+		
+		System.out.println("\n\n\n\n**********Fodors.txt*********");
+		File fin2 = new File("/InputFiles/fodors.txt");
+		readFile2(fin2);
+	}
+}

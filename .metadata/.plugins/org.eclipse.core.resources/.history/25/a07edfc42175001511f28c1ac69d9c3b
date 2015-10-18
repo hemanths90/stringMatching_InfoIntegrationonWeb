@@ -1,0 +1,34 @@
+import java.io.*;
+import java.util.ArrayList;
+
+
+
+
+
+public class stringMatch {
+	private static void readFile(File fin) throws IOException {
+		FileInputStream fis = new FileInputStream(fin);
+	 
+		BufferedReader br = new BufferedReader(new InputStreamReader(fis));
+	 
+		String line = null;
+		while ((line = br.readLine()) != null) {
+			String tmpStr = line.substring(line.indexOf("---")+3);
+			
+			ArrayList<String> zagot = new ArrayList<String>();
+			zagot.add(tmpStr);
+			
+			System.out.println(zagot[0]);
+		}
+	 
+		br.close();
+	}
+	
+	public static void main(String[] args)throws IOException {
+		
+		System.out.println("Hello");
+		
+		File fin = new File("../zagat.txt");
+		readFile(fin);
+	}
+}

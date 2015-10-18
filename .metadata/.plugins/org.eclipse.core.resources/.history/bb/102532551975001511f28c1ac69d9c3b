@@ -1,0 +1,26 @@
+import java.io.*;
+
+
+
+private static void readFile(File fin) throws IOException {
+	FileInputStream fis = new FileInputStream(fin);
+ 
+	BufferedReader br = new BufferedReader(new InputStreamReader(fis));
+ 
+	String line = null;
+	while ((line = br.readLine()) != null) {
+		System.out.println(line);
+	}
+ 
+	br.close();
+}
+
+public class stringMatch {
+	public static void main(String[] args){
+		
+		System.out.println("Hello");
+		
+		File fin = new File("zagat.txt");
+		readFile(fin);
+	}
+}
