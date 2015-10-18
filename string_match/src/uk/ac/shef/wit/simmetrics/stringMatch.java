@@ -2,7 +2,7 @@ package uk.ac.shef.wit.simmetrics;
 
 import java.io.*;
 import java.util.ArrayList;
-//import uk.ac.shef.wit.simmetrics.similaritymetrics.*;
+import uk.ac.shef.wit.simmetrics.similaritymetrics.*;
 
 public class stringMatch {
 	static ArrayList<String> zagot = new ArrayList<String>();
@@ -43,11 +43,37 @@ public class stringMatch {
 		readFile2(fin2);
 		
 		
-		for(String s: zagot)
+		/*for(String s: zagot)
 			System.out.println(s);
 		
 		for(String s: fodors)
-			System.out.println(s);
+			System.out.println(s);*/
 		
+		
+        AbstractStringMetric metric = new SmithWaterman();
+        
+        int i=0;
+        int j=0;
+        int maxIndex = 0;;
+        float maxValue = -1;
+        String s1="";
+        String s2="";
+        for(String f1: zagot){
+        	i++;
+        	maxValue = -1;
+        	j =0;
+        	for(String f2:fodors) {
+        		j++;
+        		float result = metric.getSimilarity(f1, f2);
+        		
+        		if(result > maxValue) {
+        			maxIndex = j;
+        			maxValue = result;
+        			s1 = f1;
+        			s2 = f2;
+        		}
+        	}
+    		System.out.println("s1: "+ i+ " s2: "+ maxIndex+ " Result:"+maxValue);
+        }
 	}
 }
