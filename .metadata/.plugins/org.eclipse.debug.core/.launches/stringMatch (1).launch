@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/string_match/src/uk/ac/shef/wit/simmetrics/stringMatch.java"/>
+<listEntry value="/string_match/src/com/stringMatch/stringMatch.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="uk.ac.shef.wit.simmetrics.stringMatch"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.stringMatch.stringMatch"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="src/zagat.txt src/fodors.txt src/results.txt"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="string_match"/>
 </launchConfiguration>
