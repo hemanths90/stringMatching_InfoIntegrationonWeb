@@ -96,7 +96,7 @@ public class stringMatch {
 	        		
 	        	}
 	
-	        	if(maxValue > 0.88){
+	        	if(maxValue > 0.89){
 	        	    fw.write(filename1+":"+ zagotLine[i]+ "\t"+filename2+":"+ fodorsLine[maxIndex]+"\n");
 	        	}
 	        }

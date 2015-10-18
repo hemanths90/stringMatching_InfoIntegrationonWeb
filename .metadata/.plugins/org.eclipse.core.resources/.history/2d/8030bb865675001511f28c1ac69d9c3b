@@ -1,3 +1,6 @@
+//package com.stringMatch;
+//package uk.ac.shef.wit.simmetrics;
+
 import java.io.*;
 import java.util.ArrayList;
 import uk.ac.shef.wit.simmetrics.similaritymetrics.*;
@@ -110,12 +113,28 @@ public class stringMatch {
 	}
 	
 	public static void main(String[] args)throws IOException {
+		
+		//System.out.println("**********Zagot.txt*********");
 		File fin1 = new File(args[0]);
 		readFile1(fin1);
 		
+		//System.out.println("\n\n\n\n**********Fodors.txt*********");
 		File fin2 = new File(args[1]);
 		readFile2(fin2);
 	
+		//System.out.println(args[0]+"\n"+args[1]);
+		
+		/*for(String s: zagot)
+			System.out.println(s);
+		
+		for(String s: fodors)
+			System.out.println(s);*/
+		
+
+		
 		similarityOutput(args[0],args[1],args[2]);
+		
+		
+		
 	}
 }
