@@ -394,3 +394,12 @@ Contains: File already exists on disk: /home/ubuntu14/IIproj/string_similarity_h
 !MESSAGE Problems encountered while moving resources.
 !SUBENTRY 1 org.eclipse.core.filesystem 4 268 2015-10-17 19:39:08.454
 !MESSAGE File already exists on disk: /home/ubuntu14/IIproj/string_similarity_hw7/string_match/src/uk/ac/shef/wit/simmetrics/zagat.txt.
+!SESSION 2015-10-18 13:16:44.908 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-10-18 13:16:56.379
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.

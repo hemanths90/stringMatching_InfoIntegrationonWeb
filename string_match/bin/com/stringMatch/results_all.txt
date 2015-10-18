@@ -1,0 +1,299 @@
+zagat.txt:1	fodors.txt:91	0.7403846	Needle	s1:havana sandwich shop 2905 buford hwy. atlanta cuban 	s2:sa tsu ki 3043 buford hwy. atlanta asian 
+zagat.txt:2	fodors.txt:262	0.7549681	Jaro	s1:palm too 840 second ave. new york city steakhouses 	s2:parioli romanissimo 24 e. 81st st. new york italian 
+zagat.txt:3	fodors.txt:415	0.8488372	Needle	s1:ti couz 3108 16th st. san francisco french 	s2:bizou 598 fourth st. san francisco french 
+zagat.txt:4	fodors.txt:147	0.7399916	Jaro	s1:baja fresh 3345 kimber dr. westlake village mexican 	s2:barney greengrass 9570 wilshire blvd. beverly hills american 
+zagat.txt:5	fodors.txt:30	0.79875875	Jaro	s1:indian delights 3675 satellite blvd. duluth indian 	s2:indigo coastal grill 1397 n. highland ave. atlanta caribbean 
+zagat.txt:6	fodors.txt:128	0.8068182	Needle	s1:mifune 1737 post st. san francisco japanese 	s2:sanppo 1702 post st. san francisco asian 
+zagat.txt:7	fodors.txt:373	0.928	Jaro	s1:bacchanalia 3125 piedmont rd. atlanta californian 	s2:bacchanalia 3125 piedmont rd.  near peachtree rd. atlanta international 
+zagat.txt:8	fodors.txt:408	0.8102497	Jaro	s1:tommy's 2575 beverly blvd. la hamburgers 	s2:tommy tang's 7313 melrose ave. los angeles asian 
+zagat.txt:9	fodors.txt:466	0.795082	Needle	s1:sally's cafe & bakery 300 de haro st. san francisco american 	s2:fog city diner 1300 battery st. san francisco american 
+zagat.txt:10	fodors.txt:258	0.92010343	Jaro	s1:montrachet 239 w. broadway new york city french bistro 	s2:montrachet 239 w. broadway  between walker and white sts. new york french 
+zagat.txt:11	fodors.txt:212	0.73724896	Jaro	s1:benny's burritos 93 ave. a new york city mexican 	s2:alley's end 311 w. 17th st. new york american 
+zagat.txt:12	fodors.txt:464	0.782943	Jaro	s1:mani's bakery & espresso bar 519 s. fairfax ave. la desserts 	s2:manila garden 325 e. 14th st.  between 1st and 2nd aves. new york asian 
+zagat.txt:13	fodors.txt:277	0.64444447	Jaro	s1:koo koo roo 8393 w. beverly blvd. la chicken 	s2:drai's 730 n. la cienega blvd. los angeles french 
+zagat.txt:14	fodors.txt:48	0.8235294	Needle	s1:la taqueria 2889 mission st. san francisco mexican 	s2:boulevard 1 mission st. san francisco american 
+zagat.txt:15	fodors.txt:431	1.0	Jaro	s1:citrus 6703 melrose ave. los angeles californian 	s2:citrus 6703 melrose ave. los angeles californian 
+zagat.txt:16	fodors.txt:162	0.7261445	Jaro	s1:langer's 704 s. alvarado st. la delis 	s2:locanda veneta 3rd st. los angeles italian 
+zagat.txt:17	fodors.txt:380	0.7594613	Jaro	s1:sushi nozawa 11288 ventura blvd. studio city japanese 	s2:sundown cafe 2165 cheshire bridge rd. atlanta american 
+zagat.txt:18	fodors.txt:299	0.7168517	Jaro	s1:afghan kebab house 764 ninth ave. new york city afghan 	s2:adrienne 700 5th ave. at 55th st. new york french 
+zagat.txt:19	fodors.txt:425	0.8333333	Needle	s1:moongate 3400 las vegas blvd. s. las vegas chinese 	s2:mikado 3400 las vegas blvd. s las vegas asian 
+zagat.txt:20	fodors.txt:79	0.74275297	Jaro	s1:joe's shanghai 9 pell st. queens chinese 	s2:joss 9255 sunset blvd. los angeles asian 
+zagat.txt:21	fodors.txt:188	0.89361703	Needle	s1:doidge's 2217 union st. san francisco american 	s2:perry's 1944 union st. san francisco american 
+zagat.txt:22	fodors.txt:184	0.6784764	Jaro	s1:russell's burgers 1198 pch seal beach hamburgers 	s2:rumpus 1 tillman pl. san francisco american 
+zagat.txt:23	fodors.txt:149	0.8384615	Needle	s1:buccaneer bay club 3300 las vegas blvd. s. las vegas continental 	s2:bistro 3400 las vegas blvd. s las vegas continental 
+zagat.txt:24	fodors.txt:101	0.7937646	Jaro	s1:edison cafe 228 w. 47th st. new york city diners 	s2:island spice 402 w. 44th st. new york tel caribbean 
+zagat.txt:25	fodors.txt:379	1.0	Smith	s1:fleur de lys 777 sutter st. san francisco french (new) 	s2:fleur de lys 777 sutter st. san francisco french 
+zagat.txt:26	fodors.txt:320	0.79363304	Jaro	s1:good enough to eat 483 amsterdam ave. new york city american 	s2:golden unicorn 18 e. broadway at catherine st. new york asian 
+zagat.txt:27	fodors.txt:170	0.70820886	Jaro	s1:uncle bill's pancake house 1305 highland ave. manhattan beach diners 	s2:dante's down the hatch  buckhead 3380 peachtree rd. atlanta continental 
+zagat.txt:28	fodors.txt:474	0.7116883	Jaro	s1:szechuan hunan cottage 1588 york ave. new york city chinese 	s2:stoyanof's cafe 1240 9th ave. san francisco greek and middle eastern 
+zagat.txt:29	fodors.txt:408	0.73978513	Jaro	s1:tortillas 774 ponce de leon ave. ne atlanta tex-mex 	s2:tommy tang's 7313 melrose ave. los angeles asian 
+zagat.txt:30	fodors.txt:457	0.74759924	Jaro	s1:nobu 105 hudson st. new york city japanese 	s2:north india 3131 webster st. san francisco asian 
+zagat.txt:31	fodors.txt:219	0.72617155	Jaro	s1:lombardi's 32 spring st. new york city pizza 	s2:lespinasse 2 e. 55th st. new york american 
+zagat.txt:32	fodors.txt:307	0.69576716	Jaro	s1:mishima 8474 w. third st. la noodle shops 	s2:shaan 57 w. 48th st. new york asian 
+zagat.txt:33	fodors.txt:97	0.86894435	Jaro	s1:caffe greco 423 columbus ave. san francisco continental 	s2:caffe vivaldi 32 jones st. at bleecker st. new york coffee bar 
+zagat.txt:34	fodors.txt:82	0.76526237	Jaro	s1:zarela 953 second ave. new york city mexican 	s2:aureole 34 e. 61st st. new york american 
+zagat.txt:35	fodors.txt:344	0.75417656	Jaro	s1:original pantry bakery 875 s. figueroa st. downtown la diners 	s2:oritalia 1915 fillmore st. san francisco italian 
+zagat.txt:36	fodors.txt:458	0.95994556	Jaro	s1:cafe lalo 201 w. 83rd st. new york city coffeehouses 	s2:cafe lalo 201 w. 83rd st. new york coffee bar 
+zagat.txt:37	fodors.txt:319	0.75630057	Jaro	s1:roosevelt tamale parlor 2817 24th st. san francisco mexican 	s2:rose pistola 532 columbus ave. san francisco italian 
+zagat.txt:38	fodors.txt:44	0.9690891	Jaro	s1:seryna 11 e. 53rd st. new york city japanese 	s2:seryna 11 e. 53rd st. new york asian 
+zagat.txt:39	fodors.txt:388	0.86715347	Jaro	s1:water grill 544 s. grand ave. los angeles seafood 	s2:water club 500 e. 30th st. new york american 
+zagat.txt:40	fodors.txt:343	0.7670139	Jaro	s1:marnie's noodle shop 466 hudson st. new york city asian 	s2:mary's diner 5111 w. boulder hwy. las vegas coffee shops/diners 
+zagat.txt:41	fodors.txt:159	0.7146915	Jaro	s1:pho hoa 642 broadway chinatown vietnamese 	s2:picholine 35 w. 64th st. new york mediterranean 
+zagat.txt:42	fodors.txt:232	0.7765957	Needle	s1:rae's 2901 pico blvd. santa monica diners 	s2:valentino 3115 pico blvd. santa monica italian 
+zagat.txt:43	fodors.txt:56	0.72728395	Jaro	s1:mo better meatty meat 7261 melrose ave. la hamburgers 	s2:morton's 8764 melrose ave. los angeles american 
+zagat.txt:44	fodors.txt:261	0.7579928	Jaro	s1:thailand restaurant 106 bayard st. new york city thai 	s2:the savannah club 2420 broadway at 89th st. new york american 
+zagat.txt:45	fodors.txt:432	0.7810603	Jaro	s1:cucina della fontana 368 bleecker st. new york city italian 	s2:cupcake cafe 522 9th ave. at 39th st. new york coffee bar 
+zagat.txt:46	fodors.txt:142	0.80357146	Needle	s1:la mediterranee 288 noe st. san francisco mediterranean 	s2:moose's 1652 stockton st. san francisco mediterranean 
+zagat.txt:47	fodors.txt:468	0.8944349	Jaro	s1:ritz-carlton restaurant 181 peachtree st. atlanta french (classic) 	s2:ritz-carlton restaurant and dining room 600 stockton st. san francisco american 
+zagat.txt:48	fodors.txt:94	0.7621048	Jaro	s1:thelma's kitchen 764 marietta st. nw atlanta cafeterias 	s2:the heights 3235 sacramento st. san francisco french 
+zagat.txt:49	fodors.txt:358	0.9138822	Jaro	s1:la cote basque 60 w. 55th st. new york city french (classic) 	s2:la cote basque 60 w. 55th st.  between 5th and 6th ave. new york french 
+zagat.txt:50	fodors.txt:321	0.71568626	Needle	s1:duke's 8909 sunset blvd. w. hollywood coffee shops 	s2:fenix 8358 sunset blvd. west hollywood american 
+zagat.txt:51	fodors.txt:283	0.95206654	Jaro	s1:aqua 252 california st. san francisco american (new) 	s2:aqua 252 california st. san francisco seafood 
+zagat.txt:52	fodors.txt:369	0.93095344	Jaro	s1:mi cocina 57 jane st. new york city mexican 	s2:mi cocina 57 jane st.  off hudson st. new york mexican 
+zagat.txt:53	fodors.txt:398	0.77356744	Jaro	s1:mayflower cuisinier 4750 w. sahara ave. las vegas chinese 	s2:mandarin court 1510 e. flamingo rd. las vegas asian 
+zagat.txt:54	fodors.txt:457	0.79545736	Jaro	s1:kelly's on trinity 333 bush st. san francisco californian 	s2:north india 3131 webster st. san francisco asian 
+zagat.txt:55	fodors.txt:202	0.891401	Jaro	s1:yujean kang's 67 n. raymond ave. pasadena chinese 	s2:yujean kang's gourmet chinese cuisine 67 n. raymond ave. los angeles asian 
+zagat.txt:56	fodors.txt:391	0.71111107	Needle	s1:kiev 117 second ave. new york city ukrainian 	s2:bolo 23 e. 22nd st. new york mediterranean 
+zagat.txt:57	fodors.txt:470	0.9775672	Jaro	s1:chin's 3200 las vegas blvd. s. las vegas chinese 	s2:chin's 3200 las vegas blvd. s las vegas asian 
+zagat.txt:58	fodors.txt:264	0.69546384	Jaro	s1:gumbo pot  the 6333 w. third st. la cajun/creole 	s2:golden steer 308 w. sahara ave. las vegas steak houses 
+zagat.txt:59	fodors.txt:29	0.77698475	Jaro	s1:joe's 1023 abbot kinney blvd. venice american (new) 	s2:joe allen 326 w. 46th st. new york american 
+zagat.txt:60	fodors.txt:126	0.84463894	Jaro	s1:la fonda latina 4427 roswell rd. atlanta spanish 	s2:la folie 2316 polk st. san francisco french 
+zagat.txt:61	fodors.txt:441	0.7801347	Jaro	s1:ebisu 1283 ninth ave. san francisco japanese 	s2:betelnut 2030 union st. san francisco asian 
+zagat.txt:62	fodors.txt:455	0.9884251	Jaro	s1:khan toke thai house 5937 geary blvd. san francisco thai 	s2:khan toke thai house 5937 geary blvd. san francisco asian 
+zagat.txt:63	fodors.txt:171	0.7662227	Jaro	s1:frijoleros 1031 peachtree st. ne atlanta tex-mex 	s2:bistango 1100 peachtree st. atlanta mediterranean 
+zagat.txt:64	fodors.txt:297	0.95701075	Jaro	s1:la caravelle 33 w. 55th st. new york city french (classic) 	s2:la caravelle 33 w. 55th st. new york french 
+zagat.txt:65	fodors.txt:387	0.7368871	Jaro	s1:falafel king 1059 broxton ave. westwood middle eastern 	s2:faz 161 sutter st. san francisco greek and middle eastern 
+zagat.txt:66	fodors.txt:142	0.7407331	Jaro	s1:monsoon (ny) 435 amsterdam ave. new york city thai 	s2:moose's 1652 stockton st. san francisco mediterranean 
+zagat.txt:67	fodors.txt:401	0.9237976	Jaro	s1:brasserie le coze 3393 peachtree rd. atlanta french bistro 	s2:brasserie le coze 3393 peachtree rd.  lenox square mall  near neiman atlanta french 
+zagat.txt:68	fodors.txt:291	0.7328767	Needle	s1:original pancake house (at) 4330 peachtree rd. atlanta american 	s2:anthonys 3109 piedmont rd.  just south of peachtree rd. atlanta american 
+zagat.txt:69	fodors.txt:22	0.7810138	Jaro	s1:palm  the (atlanta) 3391 peachtree rd. ne atlanta steakhouses 	s2:palisades 1829 peachtree rd. atlanta continental 
+zagat.txt:70	fodors.txt:12	0.9684701	Jaro	s1:arnie morton's of chicago 435 s. la cienega blvd. los angeles steakhouses 	s2:arnie morton's of chicago 435 s. la cienega blv. los angeles american 
+zagat.txt:71	fodors.txt:194	0.8316983	Jaro	s1:main course  the 10509 w. pico blvd. rancho park american 	s2:main street 446 columbus ave.  between 81st and 82nd sts. new york american 
+zagat.txt:72	fodors.txt:340	0.74533933	Jaro	s1:kelley & ping 127 greene st. new york city pan-asian 	s2:pen & pencil 205 e. 45th st. new york american 
+zagat.txt:73	fodors.txt:207	0.71239954	Jaro	s1:elias corner 24-02 31st st. queens greek 	s2:el cholo 1121 s. western ave. los angeles mexican 
+zagat.txt:74	fodors.txt:88	0.78846157	Needle	s1:la cumbre 515 valencia st. san francisco mexican 	s2:stars cafe 500 van ness ave. san francisco american 
+zagat.txt:75	fodors.txt:482	0.6851659	Jaro	s1:johnny reb's southern smokehouse 4663 long beach blvd. long beach southern/soul 	s2:jack sprat's grill 10668 w. pico blvd. los angeles health food 
+zagat.txt:76	fodors.txt:111	0.74416506	Jaro	s1:poquito mas 2635 w. olive ave. burbank mexican 	s2:posto 14928 ventura blvd. sherman oaks italian 
+zagat.txt:77	fodors.txt:30	0.7272131	Jaro	s1:indo cafe 10428 1/2 national blvd. la indonesian 	s2:indigo coastal grill 1397 n. highland ave. atlanta caribbean 
+zagat.txt:78	fodors.txt:238	0.82505524	Jaro	s1:sweet lady jane 8360 melrose ave. la desserts 	s2:sweet'n'tart cafe 76 mott st. at canal st. new york asian 
+zagat.txt:79	fodors.txt:152	0.79478693	Jaro	s1:san francisco bbq 1328 18th st. san francisco thai 	s2:san pietro 18 e. 54th st. new york italian 
+zagat.txt:80	fodors.txt:204	0.74273926	Jaro	s1:brookhaven cafe 4274 peachtree rd. atlanta vegetarian 	s2:broiler 4111 boulder hwy. las vegas american 
+zagat.txt:81	fodors.txt:434	0.88641024	Jaro	s1:campo santo 240 columbus ave. san francisco mexican 	s2:campton place 340 stockton st. san francisco american 
+zagat.txt:82	fodors.txt:223	0.7947941	Jaro	s1:yama 122 e. 17th st. new york city japanese 	s2:alamo 304 e. 48th st. new york mexican 
+zagat.txt:83	fodors.txt:439	0.7559759	Jaro	s1:cucina di pesce 87 e. fourth st. new york city seafood 	s2:cafe la fortuna 69 w. 71st st. new york coffee bar 
+zagat.txt:84	fodors.txt:38	0.715196	Jaro	s1:ej's luncheonette 432 sixth ave. new york city diners 	s2:ernie's 2150 broadway  between 75th and 76th sts. new york american 
+zagat.txt:85	fodors.txt:294	0.73296434	Jaro	s1:ruby's (la) 45 s. fair oaks ave. pasadena diners 	s2:rubicon 558 sacramento st. san francisco american 
+zagat.txt:86	fodors.txt:417	0.9809586	Jaro	s1:manhattan ocean club 57 w. 58th st. new york city seafood 	s2:manhattan ocean club 57 w. 58th st. new york seafood 
+zagat.txt:87	fodors.txt:199	0.701434	Jaro	s1:house of chan 2469 cobb pkwy. smyrna chinese 	s2:hong kong flower lounge 5322 geary blvd. san francisco asian 
+zagat.txt:88	fodors.txt:468	0.9121849	Jaro	s1:ritz-carlton dining room (san francisco) 600 stockton st. san francisco french (new) 	s2:ritz-carlton restaurant and dining room 600 stockton st. san francisco american 
+zagat.txt:89	fodors.txt:344	0.8333333	Needle	s1:trio cafe 1870 fillmore st. san francisco american 	s2:oritalia 1915 fillmore st. san francisco italian 
+zagat.txt:90	fodors.txt:206	0.71568626	Needle	s1:chopstix 4279 roswell rd. atlanta chinese 	s2:annie's thai castle 3195 roswell rd. atlanta asian 
+zagat.txt:91	fodors.txt:319	0.8177763	Jaro	s1:rose of india 308 e. sixth st. new york city indian 	s2:rose pistola 532 columbus ave. san francisco italian 
+zagat.txt:92	fodors.txt:152	0.76817167	Jaro	s1:sam's noodle shop 411 third ave. new york city chinese 	s2:san pietro 18 e. 54th st. new york italian 
+zagat.txt:93	fodors.txt:193	0.9591979	Jaro	s1:cafe claude 7 claude ln. san francisco french bistro 	s2:cafe claude 7 claude la. san francisco french 
+zagat.txt:94	fodors.txt:121	0.692874	Jaro	s1:kalo's coffee house 1248 clairmont rd. decatur coffeehouses 	s2:binion's coffee shop 128 fremont st. las vegas coffee shops/diners 
+zagat.txt:95	fodors.txt:472	0.74731946	Jaro	s1:lettuce souprise you (at) 3525 mall blvd. duluth cafeterias 	s2:le montrachet 3000 w. paradise rd. las vegas continental 
+zagat.txt:96	fodors.txt:124	0.89159834	Jaro	s1:ocean park cafe 3117 ocean park blvd. santa monica american 	s2:ocean avenue 1401 ocean ave. santa monica american 
+zagat.txt:97	fodors.txt:386	0.8282503	Jaro	s1:bruno's 3838 centinela ave. mar vista italian 	s2:bruno 240 e. 58th st. new york italian 
+zagat.txt:98	fodors.txt:193	0.8523009	Jaro	s1:cafe sunflower 5975 roswell rd. atlanta health food 	s2:cafe claude 7 claude la. san francisco french 
+zagat.txt:99	fodors.txt:186	0.9780734	Jaro	s1:matsuhisa 129 n. la cienega blvd. beverly hills seafood 	s2:matsuhisa 129 n. la cienega blvd. beverly hills asian 
+zagat.txt:100	fodors.txt:477	0.97333336	Jaro	s1:toulouse 293-b peachtree rd. atlanta french (new) 	s2:toulouse b peachtree rd. atlanta french 
+zagat.txt:101	fodors.txt:55	0.7685185	Needle	s1:java jive 790 ponce de leon ave. atlanta coffee shops 	s2:abbey 163 ponce de leon ave. atlanta international 
+zagat.txt:102	fodors.txt:434	1.0	Smith	s1:campton place 340 stockton st. san francisco american (new) 	s2:campton place 340 stockton st. san francisco american 
+zagat.txt:103	fodors.txt:365	0.7022222	Jaro	s1:bobby & june's kountry kitchen 375 14th st. atlanta southern/soul 	s2:bouterin 420 e. 59th st.  off 1st ave. new york french 
+zagat.txt:104	fodors.txt:181	0.74135095	Jaro	s1:michael's (los angeles) 1147 third st. santa monica californian 	s2:palio d'asti 640 sacramento st. san francisco italian 
+zagat.txt:105	fodors.txt:62	0.78787875	Needle	s1:103 west 103 w. paces ferry rd. atlanta continental 	s2:beesley's of buckhead 260 e. paces ferry road atlanta continental 
+zagat.txt:106	fodors.txt:75	0.8643712	Jaro	s1:philippe the original 1001 n. alameda st. chinatown cafeterias 	s2:phillippes the original 1001 n. alameda st. los angeles american 
+zagat.txt:107	fodors.txt:94	0.7348482	Jaro	s1:thai house cafe 151 hudson st. new york city thai 	s2:the heights 3235 sacramento st. san francisco french 
+zagat.txt:108	fodors.txt:448	0.88675064	Jaro	s1:bistro  the 56 e. andrews dr. nw atlanta french bistro 	s2:bistro roti 155 steuart st. san francisco french 
+zagat.txt:109	fodors.txt:358	0.7513889	Jaro	s1:la serenata de garibaldi 1842 e. first st. boyle hts. mexican/tex-mex 	s2:la cote basque 60 w. 55th st.  between 5th and 6th ave. new york french 
+zagat.txt:110	fodors.txt:175	0.74178034	Jaro	s1:patsy's pizza 19 old fulton st. brooklyn pizza 	s2:palio 151 w. 51st. st. new york italian 
+zagat.txt:111	fodors.txt:85	0.8103448	Needle	s1:buzio's in the rio 3700 w. flamingo rd. las vegas seafood 	s2:tillerman 2245 e. flamingo rd. las vegas seafood 
+zagat.txt:112	fodors.txt:278	0.9065701	Jaro	s1:carmine's 2450 broadway new york city italian 	s2:carmine's 2450 broadway  between 90th and 91st sts. new york italian 
+zagat.txt:113	fodors.txt:303	0.7496936	Jaro	s1:palm 837 second ave. new york city steakhouses 	s2:palace court 3570 las vegas blvd. s las vegas continental 
+zagat.txt:114	fodors.txt:236	0.77522475	Jaro	s1:menchanko-tei 39 w. 55th st. new york city japanese 	s2:jean lafitte 68 w. 58th st. new york french 
+zagat.txt:115	fodors.txt:303	0.8308824	Needle	s1:michael's (las vegas) 3595 las vegas blvd. s. las vegas continental 	s2:palace court 3570 las vegas blvd. s las vegas continental 
+zagat.txt:116	fodors.txt:403	0.8911171	Jaro	s1:bone's restaurant 3130 piedmont rd. ne atlanta steakhouses 	s2:bone's 3130 piedmont road atlanta american 
+zagat.txt:117	fodors.txt:449	0.919281	Jaro	s1:le chardonnay (los angeles) 8284 melrose ave. los angeles french bistro 	s2:le chardonnay 8284 melrose ave. los angeles french 
+zagat.txt:118	fodors.txt:397	0.7518122	Jaro	s1:lemongrass grill 61a seventh ave. brooklyn thai 	s2:le marais 150 w. 46th st. new york american 
+zagat.txt:119	fodors.txt:357	0.88424397	Jaro	s1:spago (los angeles) 8795 sunset blvd. w. hollywood californian 	s2:spago 1114 horn ave. los angeles californian 
+zagat.txt:120	fodors.txt:205	0.9595412	Jaro	s1:petrossian 182 w. 58th st. new york city russian 	s2:petrossian 182 w. 58th st. new york french 
+zagat.txt:121	fodors.txt:139	0.70262307	Jaro	s1:teresa's 80 montague st. queens polish 	s2:sofi 3rd st. los angeles mediterranean 
+zagat.txt:122	fodors.txt:367	0.8870163	Jaro	s1:les celebrites 155 w. 58th st. new york city french (classic) 	s2:les celebrites 160 central park s new york french 
+zagat.txt:123	fodors.txt:118	0.7538577	Jaro	s1:veselka 144 second ave. new york city ukrainian 	s2:verbena 54 irving pl. at 17th st. new york american 
+zagat.txt:124	fodors.txt:303	0.7639735	Jaro	s1:palm  the (los angeles) 9001 santa monica blvd. w. hollywood steakhouses 	s2:palace court 3570 las vegas blvd. s las vegas continental 
+zagat.txt:125	fodors.txt:155	0.712319	Jaro	s1:silver skillet  the 200 14th st. nw atlanta coffee shops 	s2:sign of the dove 1110 3rd ave. at 65th st. new york american 
+zagat.txt:126	fodors.txt:143	0.740164	Jaro	s1:harold's barbecue 171 mcdonough blvd. atlanta bbq 	s2:hard rock cafe 8600 beverly blvd. los angeles american 
+zagat.txt:127	fodors.txt:448	0.7346939	Needle	s1:vicolo pizzeria 201 ivy st. san francisco pizza 	s2:bistro roti 155 steuart st. san francisco french 
+zagat.txt:128	fodors.txt:147	0.74220175	Jaro	s1:barbecue kitchen 1437 virginia ave. atlanta bbq 	s2:barney greengrass 9570 wilshire blvd. beverly hills american 
+zagat.txt:129	fodors.txt:193	0.84264636	Jaro	s1:cafe '50s 838 lincoln blvd. venice american 	s2:cafe claude 7 claude la. san francisco french 
+zagat.txt:130	fodors.txt:174	0.826478	Jaro	s1:thep phanom 400 waller st. san francisco thai 	s2:thepin 298 gough st. san francisco asian 
+zagat.txt:131	fodors.txt:360	1.0	Jaro	s1:patina 5955 melrose ave. los angeles californian 	s2:patina 5955 melrose ave. los angeles californian 
+zagat.txt:132	fodors.txt:127	0.9328479	Jaro	s1:fringale 570 fourth st. san francisco french bistro 	s2:fringale 570 4th st. san francisco french 
+zagat.txt:133	fodors.txt:38	0.71804464	Jaro	s1:eric's chinese restaurant 1500 church st. san francisco chinese 	s2:ernie's 2150 broadway  between 75th and 76th sts. new york american 
+zagat.txt:134	fodors.txt:186	0.76391876	Jaro	s1:maxwell's cafe 13329 washington blvd. marina del rey american 	s2:matsuhisa 129 n. la cienega blvd. beverly hills asian 
+zagat.txt:135	fodors.txt:359	0.8955673	Jaro	s1:carnegie deli 854 seventh ave. new york city delis 	s2:carnegie deli 854 7th ave.  between 54th and 55th sts. new york delicatessen 
+zagat.txt:136	fodors.txt:45	0.7838961	Jaro	s1:nicky blair's 3925 paradise rd. las vegas italian 	s2:nickiemoto's: a sushi bar 247 buckhead ave.  east village sq. atlanta fusion 
+zagat.txt:137	fodors.txt:393	0.78916585	Jaro	s1:il mulino 86 w. third st. new york city italian 	s2:il nido 251 e. 53rd st. new york italian 
+zagat.txt:138	fodors.txt:297	0.6740819	Jaro	s1:la salsa (la) 22800 pch malibu mexican 	s2:la caravelle 33 w. 55th st. new york french 
+zagat.txt:139	fodors.txt:468	0.8644203	Jaro	s1:ritz-carlton cafe (atlanta) 181 peachtree st. atlanta american (new) 	s2:ritz-carlton restaurant and dining room 600 stockton st. san francisco american 
+zagat.txt:140	fodors.txt:29	0.713279	Jaro	s1:johnny rockets (at) 2970 cobb pkwy. atlanta american 	s2:joe allen 326 w. 46th st. new york american 
+zagat.txt:141	fodors.txt:414	0.9745921	Jaro	s1:oceana 55 e. 54th st. new york city seafood 	s2:oceana 55 e. 54th st. new york seafood 
+zagat.txt:142	fodors.txt:21	0.9113387	Jaro	s1:grill  the 9560 dayton way beverly hills american (traditional) 	s2:grill on the alley 9560 dayton way los angeles american 
+zagat.txt:143	fodors.txt:273	0.7692308	Needle	s1:virgil's real bbq 152 w. 44th st. new york city bbq 	s2:osteria al droge 142 w. 44th st. new york italian 
+zagat.txt:144	fodors.txt:219	0.91409934	Jaro	s1:lespinasse (new york city) 2 e. 55th st. new york city asian 	s2:lespinasse 2 e. 55th st. new york american 
+zagat.txt:145	fodors.txt:43	0.7767647	Jaro	s1:john's pizzeria 48 w. 65th st. new york city pizza 	s2:jewel of india 15 w. 44th st. new york asian 
+zagat.txt:146	fodors.txt:249	0.9085612	Jaro	s1:pano's & paul's 1232 w. paces ferry rd. atlanta american (new) 	s2:pano's and paul's 1232 w. paces ferry rd. atlanta international 
+zagat.txt:147	fodors.txt:472	0.7796778	Jaro	s1:hugo's cellar 202 e. fremont st. las vegas continental 	s2:le montrachet 3000 w. paradise rd. las vegas continental 
+zagat.txt:148	fodors.txt:168	0.7667152	Jaro	s1:sushisay 38 e. 51st st. new york city japanese 	s2:tse yang 34 e. 51st st. new york asian 
+zagat.txt:149	fodors.txt:298	0.9334473	Jaro	s1:pisces 95 ave. a new york city seafood 	s2:pisces 95 ave. a at 6th st. new york seafood 
+zagat.txt:150	fodors.txt:291	0.7379354	Jaro	s1:andre's french restaurant 401 s. 6th st. las vegas french (classic) 	s2:anthonys 3109 piedmont rd.  just south of peachtree rd. atlanta american 
+zagat.txt:151	fodors.txt:421	0.78244495	Jaro	s1:sterling brunch 3645 las vegas blvd. s. las vegas eclectic 	s2:steak house 2880 las vegas blvd. s las vegas steak houses 
+zagat.txt:152	fodors.txt:232	1.0	Jaro	s1:valentino 3115 pico blvd. santa monica italian 	s2:valentino 3115 pico blvd. santa monica italian 
+zagat.txt:153	fodors.txt:185	0.94425815	Jaro	s1:hedgerose heights inn  the 490 e. paces ferry rd. ne atlanta continental 	s2:hedgerose heights inn 490 e. paces ferry rd. atlanta international 
+zagat.txt:154	fodors.txt:48	1.0	Smith	s1:boulevard 1 mission st. san francisco american (new) 	s2:boulevard 1 mission st. san francisco american 
+zagat.txt:155	fodors.txt:172	0.926833	Jaro	s1:georgia grille 2290 peachtree rd. atlanta southwestern 	s2:georgia grille 2290 peachtree rd.  peachtree square shopping cent atlanta american 
+zagat.txt:156	fodors.txt:77	0.9734058	Jaro	s1:postrio 545 post st. san francisco californian 	s2:postrio 545 post st. san francisco american 
+zagat.txt:157	fodors.txt:39	0.8553355	Jaro	s1:jackson diner 37-03 74th st. queens indian 	s2:jackson's farm 439 n. beverly drive los angeles californian 
+zagat.txt:158	fodors.txt:468	0.8736239	Jaro	s1:ritz-carlton cafe (buckhead) 3434 peachtree rd. ne atlanta american (new) 	s2:ritz-carlton restaurant and dining room 600 stockton st. san francisco american 
+zagat.txt:159	fodors.txt:5	0.9287154	Jaro	s1:la grotta 2637 peachtree rd. ne atlanta italian 	s2:la grotta 2637 peachtree rd.  peachtree house condominium atlanta italian 
+zagat.txt:160	fodors.txt:294	0.7737547	Jaro	s1:rubin's red hots 15322 ventura blvd. encino hot dogs 	s2:rubicon 558 sacramento st. san francisco american 
+zagat.txt:161	fodors.txt:28	0.74135226	Jaro	s1:emerald garden restaurant 1550 california st. san francisco vietnamese 	s2:cafe renaissance 7050 jimmy carter blvd.  norcross atlanta american 
+zagat.txt:162	fodors.txt:256	0.9579085	Jaro	s1:march 405 e. 58th st. new york city american (new) 	s2:march 405 e. 58th st. new york american 
+zagat.txt:163	fodors.txt:321	0.8927487	Jaro	s1:fenix at the argyle 8358 sunset blvd. w. hollywood french (new) 	s2:fenix 8358 sunset blvd. west hollywood american 
+zagat.txt:164	fodors.txt:445	0.7321817	Jaro	s1:windows on the world 107th fl. new york city eclectic 	s2:planet hollywood 140 w. 57th st. new york american 
+zagat.txt:165	fodors.txt:476	0.966644	Jaro	s1:plumpjack cafe 3127 fillmore st. san francisco american (new) 	s2:plumpjack cafe 3201 fillmore st. san francisco mediterranean 
+zagat.txt:166	fodors.txt:290	0.8868687	Jaro	s1:shun lee palace 155 e. 55th st. new york city chinese 	s2:shun lee west 43 w. 65th st. new york asian 
+zagat.txt:167	fodors.txt:67	0.70964056	Jaro	s1:gray's papaya 2090 broadway new york city hot dogs 	s2:greens bldg. a fort mason san francisco vegetarian 
+zagat.txt:168	fodors.txt:338	0.6805492	Jaro	s1:mulberry st. 17040 ventura blvd. encino pizza 	s2:remi 145 w. 53rd st. new york italian 
+zagat.txt:169	fodors.txt:53	0.92960984	Jaro	s1:coyote cafe (las vegas) 3799 las vegas blvd. s. las vegas southwestern 	s2:coyote cafe 3799 las vegas blvd. s las vegas southwestern 
+zagat.txt:170	fodors.txt:210	0.7548846	Jaro	s1:corner bistro 331 w. fourth st. new york city hamburgers 	s2:corrado cafe 1013 3rd ave.  between 60th and 61st sts. new york coffee bar 
+zagat.txt:171	fodors.txt:470	0.9347826	Smith	s1:madame ching's 3300 las vegas blvd. s. las vegas asian 	s2:chin's 3200 las vegas blvd. s las vegas asian 
+zagat.txt:172	fodors.txt:109	0.7364865	Needle	s1:emeril's new orleans fish house 3799 las vegas blvd. s. las vegas seafood 	s2:bally's big kitchen 3645 las vegas blvd. s las vegas buffets 
+zagat.txt:173	fodors.txt:206	0.7666433	Jaro	s1:alon's at the terrace 659 peachtree st. atlanta sandwiches 	s2:annie's thai castle 3195 roswell rd. atlanta asian 
+zagat.txt:174	fodors.txt:267	0.8131074	Jaro	s1:westside cottage 689 ninth ave. new york city chinese 	s2:west 63rd street steakhouse 44 w. 63rd st. new york american 
+zagat.txt:175	fodors.txt:297	0.83019483	Jaro	s1:la cachette 10506 little santa monica blvd. century city french (new) 	s2:la caravelle 33 w. 55th st. new york french 
+zagat.txt:176	fodors.txt:428	0.97575116	Jaro	s1:felidia 243 e. 58th st. new york city italian 	s2:felidia 243 e. 58th st. new york italian 
+zagat.txt:177	fodors.txt:162	0.7875513	Jaro	s1:local nochol 30869 thousand oaks blvd. westlake village health food 	s2:locanda veneta 3rd st. los angeles italian 
+zagat.txt:178	fodors.txt:25	0.95633584	Jaro	s1:buckhead diner 3073 piedmont rd. atlanta american (new) 	s2:buckhead diner 3073 piedmont road atlanta american 
+zagat.txt:179	fodors.txt:372	0.8564935	Jaro	s1:feast from the east 1949 westwood blvd. west la chinese 	s2:feast 2411 w. sahara ave. las vegas buffets 
+zagat.txt:180	fodors.txt:315	0.7086238	Jaro	s1:zab-e-lee 4837 old national hwy. college park thai 	s2:le colonial 8783 beverly blvd. los angeles asian 
+zagat.txt:181	fodors.txt:205	0.73125815	Jaro	s1:peter luger steak house 178 broadway brooklyn steakhouses 	s2:petrossian 182 w. 58th st. new york french 
+zagat.txt:182	fodors.txt:257	0.695938	Jaro	s1:stick to your ribs 5-16 51st ave. queens bbq 	s2:stingray 428 amsterdam ave.  between 80th and 81st sts. new york seafood 
+zagat.txt:183	fodors.txt:240	0.71016026	Jaro	s1:nuevo laredo cantina 1495 chattahoochee ave. nw atlanta mexican 	s2:mambo restaurante cubano 1402 n. highland ave. atlanta caribbean 
+zagat.txt:184	fodors.txt:373	0.7044277	Jaro	s1:baker's cajun cafe 1134 euclid ave. atlanta cajun/creole 	s2:bacchanalia 3125 piedmont rd.  near peachtree rd. atlanta international 
+zagat.txt:185	fodors.txt:479	1.0	Jaro	s1:veni vidi vici 41 14th st. atlanta italian 	s2:veni vidi vici 41 14th st. atlanta italian 
+zagat.txt:186	fodors.txt:276	0.712692	Jaro	s1:van gogh's restaurant & bar 70 w. crossville rd. roswell american (new) 	s2:vivande ristorante 670 golden gate ave. san francisco italian 
+zagat.txt:187	fodors.txt:276	0.7598304	Jaro	s1:piero's restaurant 355 convention center dr. las vegas italian 	s2:vivande ristorante 670 golden gate ave. san francisco italian 
+zagat.txt:188	fodors.txt:472	0.9107792	Jaro	s1:le montrachet bistro 3000 paradise rd. las vegas french bistro 	s2:le montrachet 3000 w. paradise rd. las vegas continental 
+zagat.txt:189	fodors.txt:55	0.87280154	Jaro	s1:eats 600 ponce de leon ave. atlanta italian 	s2:abbey 163 ponce de leon ave. atlanta international 
+zagat.txt:190	fodors.txt:39	0.71250004	Jaro	s1:johnny rockets (la) 7507 melrose ave. la american 	s2:jackson's farm 439 n. beverly drive los angeles californian 
+zagat.txt:191	fodors.txt:279	0.92729986	Jaro	s1:chanterelle 2 harrison st. new york city french (new) 	s2:chanterelle 2 harrison st.  near hudson st. new york american 
+zagat.txt:192	fodors.txt:371	0.9320756	Jaro	s1:chez michel 804 north point st. san francisco californian 	s2:chez michel 804 northpoint san francisco french 
+zagat.txt:193	fodors.txt:401	0.7375151	Jaro	s1:bradshaw's restaurant 2911 s. pharr court atlanta southern/soul 	s2:brasserie le coze 3393 peachtree rd.  lenox square mall  near neiman atlanta french 
+zagat.txt:194	fodors.txt:124	0.87398297	Jaro	s1:ocean star 145 n. atlantic blvd. monterey park seafood 	s2:ocean avenue 1401 ocean ave. santa monica american 
+zagat.txt:195	fodors.txt:39	0.78028244	Jaro	s1:jan's family restaurant 8424 beverly blvd. la coffee shops 	s2:jackson's farm 439 n. beverly drive los angeles californian 
+zagat.txt:196	fodors.txt:387	0.7219558	Jaro	s1:flying biscuit  the 1655 mclendon ave. atlanta eclectic 	s2:faz 161 sutter st. san francisco greek and middle eastern 
+zagat.txt:197	fodors.txt:207	0.7038095	Jaro	s1:zankou chicken 1415 e. colorado st. glendale middle eastern 	s2:el cholo 1121 s. western ave. los angeles mexican 
+zagat.txt:198	fodors.txt:407	0.9587867	Jaro	s1:21 club 21 w. 52nd st. new york city american (new) 	s2:21 club 21 w. 52nd st. new york american 
+zagat.txt:199	fodors.txt:239	0.72101116	Jaro	s1:sparks steak house 210 e. 46th st. new york city steakhouses 	s2:sammy's roumanian steak house 157 chrystie st. at delancey st. new york east european 
+zagat.txt:200	fodors.txt:324	0.7928272	Jaro	s1:slanted door 584 valencia st. san francisco vietnamese 	s2:scala's bistro 432 powell st. san francisco italian 
+zagat.txt:201	fodors.txt:310	0.76799375	Jaro	s1:cassell's 3266 w. sixth st. la hamburgers 	s2:cassis 3300 peachtree rd.  grand hyatt atlanta mediterranean 
+zagat.txt:202	fodors.txt:468	0.8873241	Jaro	s1:ritz-carlton dining room (buckhead) 3434 peachtree rd. ne atlanta american (new) 	s2:ritz-carlton restaurant and dining room 600 stockton st. san francisco american 
+zagat.txt:203	fodors.txt:212	0.71875536	Jaro	s1:apple pan  the 10801 w. pico blvd. west la american 	s2:alley's end 311 w. 17th st. new york american 
+zagat.txt:204	fodors.txt:56	0.83942306	Jaro	s1:morton's of chicago (las vegas) 3200 las vegas blvd. s. las vegas steakhouses 	s2:morton's 8764 melrose ave. los angeles american 
+zagat.txt:205	fodors.txt:48	0.7453477	Jaro	s1:shiro 1505 mission st. s. pasadena pacific new wave 	s2:boulevard 1 mission st. san francisco american 
+zagat.txt:206	fodors.txt:193	0.8648543	Jaro	s1:cafe con leche 424 amsterdam ave. new york city cuban 	s2:cafe claude 7 claude la. san francisco french 
+zagat.txt:207	fodors.txt:126	1.0	Smith	s1:la folie 2316 polk st. san francisco french (new) 	s2:la folie 2316 polk st. san francisco french 
+zagat.txt:208	fodors.txt:426	0.7746168	Jaro	s1:parkway grill 510 s. arroyo pkwy. pasadena californian 	s2:park avenue cafe 100 e. 63rd st. new york american 
+zagat.txt:209	fodors.txt:102	0.9527066	Jaro	s1:lutece 249 e. 50th st. new york city french (classic) 	s2:lutece 249 e. 50th st. new york french 
+zagat.txt:210	fodors.txt:72	0.86777085	Jaro	s1:cafe blanc 9777 little santa monica blvd. beverly hills pacific new wave 	s2:cafe bianco 1486 2nd ave.  between 77th and 78th sts. new york coffee bar 
+zagat.txt:211	fodors.txt:23	0.76563036	Jaro	s1:martha's 22nd street grill 25 22nd st. hermosa beach american 	s2:margarita's mexican cantina 3120 las vegas blvd. s las vegas mexican 
+zagat.txt:212	fodors.txt:36	0.755789	Jaro	s1:white house restaurant 3172 peachtree rd. ne atlanta diners 	s2:colonnade restaurant 1879 cheshire bridge rd. atlanta southern 
+zagat.txt:213	fodors.txt:327	0.9545455	Jaro	s1:aquavit 13 w. 54th st. new york city scandinavian 	s2:aquavit 13 w. 54th st. new york continental 
+zagat.txt:214	fodors.txt:389	0.7695476	Jaro	s1:arcadia 21 e. 62nd st. new york city american (new) 	s2:arizona 206 206 e. 60th st. new york american 
+zagat.txt:215	fodors.txt:183	0.77380335	Jaro	s1:one if by land  tibs 17 barrow st. new york city continental 	s2:one market 1 market st. san francisco american 
+zagat.txt:216	fodors.txt:131	0.9215471	Jaro	s1:gramercy tavern 42 e. 20th st. new york city american (new) 	s2:gramercy tavern 42 e. 20th st.  between park ave. s and broadway new york american 
+zagat.txt:217	fodors.txt:434	0.6878307	Jaro	s1:kokomo cafe 6333 w. third st. la american 	s2:campton place 340 stockton st. san francisco american 
+zagat.txt:218	fodors.txt:97	0.7301587	Needle	s1:mitali east-west 296 bleecker st. new york city indian 	s2:caffe vivaldi 32 jones st. at bleecker st. new york coffee bar 
+zagat.txt:219	fodors.txt:411	0.8370147	Jaro	s1:fiore rotisserie & grille 3700 w. flamingo rd. las vegas italian 	s2:fiorello's roman cafe 1900 broadway  between 63rd and 64th sts. new york italian 
+zagat.txt:220	fodors.txt:421	0.85357654	Jaro	s1:steakhouse  the 128 e. fremont st. las vegas steakhouses 	s2:steak house 2880 las vegas blvd. s las vegas steak houses 
+zagat.txt:221	fodors.txt:152	0.72290516	Jaro	s1:wollensky's grill 205 e. 49th st. new york city steakhouses 	s2:san pietro 18 e. 54th st. new york italian 
+zagat.txt:222	fodors.txt:8	0.8513002	Jaro	s1:rainbow restaurant 2118 n. decatur rd. decatur vegetarian 	s2:rainbow room 30 rockefeller plaza new york or 212/632-5100 american 
+zagat.txt:223	fodors.txt:47	0.7596154	Needle	s1:stefano's 129 fremont st. las vegas italian 	s2:lillie langtry's 129 e. fremont st. las vegas asian 
+zagat.txt:224	fodors.txt:77	0.719697	Needle	s1:wa-ha-ka oaxaca mexican grill 2141 polk st. san francisco mexican 	s2:postrio 545 post st. san francisco american 
+zagat.txt:225	fodors.txt:213	0.9595417	Jaro	s1:daniel 20 e. 76th st. new york city french (new) 	s2:daniel 20 e. 76th st. new york french 
+zagat.txt:226	fodors.txt:414	0.71296203	Jaro	s1:oyster bar lower level new york city seafood 	s2:oceana 55 e. 54th st. new york seafood 
+zagat.txt:227	fodors.txt:308	0.9624444	Jaro	s1:chinois on main 2709 main st. santa monica pacific new wave 	s2:chinois on main 2709 main st. santa monica french 
+zagat.txt:228	fodors.txt:196	0.9612325	Jaro	s1:le bernardin 155 w. 51st st. new york city seafood 	s2:le bernardin 155 w. 51st st. new york french 
+zagat.txt:229	fodors.txt:276	0.75657624	Jaro	s1:veggieland 220 sandy springs circle atlanta vegetarian 	s2:vivande ristorante 670 golden gate ave. san francisco italian 
+zagat.txt:230	fodors.txt:224	0.7228459	Jaro	s1:deacon burton's soulfood restaurant 1029 edgewood ave. se atlanta southern/soul 	s2:dean & deluca 121 prince st. new york coffee bar 
+zagat.txt:231	fodors.txt:125	0.9786258	Jaro	s1:hawthorne lane 22 hawthorne st. san francisco californian 	s2:hawthorne lane 22 hawthorne st. san francisco american 
+zagat.txt:232	fodors.txt:56	0.85649455	Jaro	s1:morton's of chicago (atlanta) 303 peachtree st. ne atlanta steakhouses 	s2:morton's 8764 melrose ave. los angeles american 
+zagat.txt:233	fodors.txt:460	0.7110041	Jaro	s1:killer shrimp 4000 colfax ave. studio city seafood 	s2:tadich grill 240 california st. san francisco seafood 
+zagat.txt:234	fodors.txt:101	0.97932464	Jaro	s1:island spice 402 w. 44th st. new york city caribbean 	s2:island spice 402 w. 44th st. new york tel caribbean 
+zagat.txt:235	fodors.txt:142	0.7394225	Jaro	s1:dottie's true blue cafe 522 jones st. san francisco diners 	s2:moose's 1652 stockton st. san francisco mediterranean 
+zagat.txt:236	fodors.txt:53	0.7966102	Needle	s1:monte carlo 3145 las vegas blvd. s. las vegas french (new) 	s2:coyote cafe 3799 las vegas blvd. s las vegas southwestern 
+zagat.txt:237	fodors.txt:275	0.73161584	Jaro	s1:jody maroni's sausage kingdom 2011 ocean front walk venice hot dogs 	s2:jimmy's 201 moreno dr. los angeles continental 
+zagat.txt:238	fodors.txt:482	0.74613065	Jaro	s1:john o'groats 10516 w. pico blvd. west la coffee shops 	s2:jack sprat's grill 10668 w. pico blvd. los angeles health food 
+zagat.txt:239	fodors.txt:324	0.7070513	Jaro	s1:sylvia's 328 lenox ave. new york city southern/soul 	s2:scala's bistro 432 powell st. san francisco italian 
+zagat.txt:240	fodors.txt:295	0.7039253	Jaro	s1:hollywood hills coffee shop 6145 franklin ave. hollywood coffee shops 	s2:holt bros. bar-b-q 6359 jimmy carter blvd.  at buford hwy.  norcross atlanta barbecue 
+zagat.txt:241	fodors.txt:357	0.86423945	Jaro	s1:spago (las vegas) 3500 las vegas blvd. s. las vegas californian 	s2:spago 1114 horn ave. los angeles californian 
+zagat.txt:242	fodors.txt:11	1.0	Smith	s1:alain rondelli 126 clement st. san francisco french (new) 	s2:alain rondelli 126 clement st. san francisco french 
+zagat.txt:243	fodors.txt:197	0.8927277	Jaro	s1:cha cha cha's 1805 haight st. san francisco caribbean 	s2:cha cha cha 656 n. virgil ave. los angeles caribbean 
+zagat.txt:244	fodors.txt:471	0.8664225	Jaro	s1:sarabeth's 1295 madison ave. new york city american 	s2:sarabeth's kitchen 423 amsterdam ave.  between 80th and 81st sts. new york american 
+zagat.txt:245	fodors.txt:6	0.8445398	Jaro	s1:ruth's chris steak house (los angeles) 224 s. beverly dr. beverly hills steakhouses 	s2:ruth's chris 148 w. 51st st. new york american 
+zagat.txt:246	fodors.txt:297	0.8532608	Jaro	s1:la caridad 2199 broadway new york city cuban 	s2:la caravelle 33 w. 55th st. new york french 
+zagat.txt:247	fodors.txt:171	0.81803805	Jaro	s1:nava 3060 peachtree rd. atlanta southwestern 	s2:bistango 1100 peachtree st. atlanta mediterranean 
+zagat.txt:248	fodors.txt:20	0.9055885	Jaro	s1:mesa grill 102 fifth ave. new york city southwestern 	s2:mesa grill 102 5th ave.  between 15th and 16th sts. new york american 
+zagat.txt:249	fodors.txt:129	0.78086674	Jaro	s1:hamburger mary's 1582 folsom st. san francisco hamburgers 	s2:hayes street grill 320 hayes st. san francisco seafood 
+zagat.txt:250	fodors.txt:16	1.0	Smith	s1:cafe bizou 14016 ventura blvd. sherman oaks french bistro 	s2:cafe bizou 14016 ventura blvd. sherman oaks french 
+zagat.txt:251	fodors.txt:162	0.93763345	Jaro	s1:locanda veneta 8638 w. third st. los angeles italian 	s2:locanda veneta 3rd st. los angeles italian 
+zagat.txt:252	fodors.txt:442	0.97698337	Jaro	s1:campanile 624 s. la brea ave. los angeles californian 	s2:campanile 624 s. la brea ave. los angeles american 
+zagat.txt:253	fodors.txt:331	0.9166667	Smith	s1:lulu restaurant-bis-cafe 816 folsom st. san francisco mediterranean 	s2:lulu 816 folsom st. san francisco mediterranean 
+zagat.txt:254	fodors.txt:162	0.73255813	Needle	s1:r-23 923 e. third st. los angeles japanese 	s2:locanda veneta 3rd st. los angeles italian 
+zagat.txt:255	fodors.txt:145	1.0	Smith	s1:masa's 648 bush st. san francisco french (new) 	s2:masa's 648 bush st. san francisco french 
+zagat.txt:256	fodors.txt:201	0.9641771	Jaro	s1:dawat 210 e. 58th st. new york city indian 	s2:dawat 210 e. 58th st. new york asian 
+zagat.txt:257	fodors.txt:303	0.9586793	Jaro	s1:palace court 3570 las vegas blvd. s. las vegas french (new) 	s2:palace court 3570 las vegas blvd. s las vegas continental 
+zagat.txt:258	fodors.txt:381	0.81495446	Jaro	s1:bill's place 2315 clement st. san francisco hamburgers 	s2:billy's 948 1st ave.  between 52nd and 53rd sts. new york american 
+zagat.txt:259	fodors.txt:87	0.781134	Jaro	s1:diaghilev 1020 n. san vicente blvd. w. hollywood russian 	s2:dive! 10250 santa monica blvd. los angeles dive american 
+zagat.txt:260	fodors.txt:235	0.9800428	Jaro	s1:delectables 1 margaret mitchell sq. atlanta cafeterias 	s2:delectables 1 margaret mitchell sq. atlanta american 
+zagat.txt:261	fodors.txt:428	0.78757167	Jaro	s1:darbar 44 w. 56th st. new york city indian 	s2:felidia 243 e. 58th st. new york italian 
+zagat.txt:262	fodors.txt:319	1.0	Jaro	s1:rose pistola 532 columbus ave. san francisco italian 	s2:rose pistola 532 columbus ave. san francisco italian 
+zagat.txt:263	fodors.txt:333	0.7737705	Jaro	s1:abruzzi 2355 peachtree rd. ne atlanta italian 	s2:luna si 1931 peachtree rd. atlanta continental 
+zagat.txt:264	fodors.txt:39	0.7136662	Jaro	s1:johnnie's pastrami 4017 s. sepulveda blvd. culver city delis 	s2:jackson's farm 439 n. beverly drive los angeles californian 
+zagat.txt:265	fodors.txt:426	0.91724485	Jaro	s1:park avenue cafe (new york city) 100 e. 63rd st. new york city american (new) 	s2:park avenue cafe 100 e. 63rd st. new york american 
+zagat.txt:266	fodors.txt:403	0.7790698	Needle	s1:soto 3330 piedmont rd. atlanta japanese 	s2:bone's 3130 piedmont road atlanta american 
+zagat.txt:267	fodors.txt:56	0.7538577	Jaro	s1:moustache 405 atlantic ave. brooklyn middle eastern 	s2:morton's 8764 melrose ave. los angeles american 
+zagat.txt:268	fodors.txt:272	0.9418171	Jaro	s1:heera of india 595 piedmont ave. atlanta indian 	s2:heera of india 595 piedmont ave.  rio shopping mall atlanta asian 
+zagat.txt:269	fodors.txt:433	0.93576556	Jaro	s1:second street grill 200 e. fremont st. las vegas pacific rim 	s2:second street grille 200 e. fremont st. las vegas seafood 
+zagat.txt:270	fodors.txt:159	0.97075474	Jaro	s1:picholine 35 w. 64th st. new york city mediterranean 	s2:picholine 35 w. 64th st. new york mediterranean 
+zagat.txt:271	fodors.txt:49	0.6862745	Needle	s1:don antonio's 1136 westwood blvd. westwood italian 	s2:antonio's 3700 w. flamingo las vegas italian 
+zagat.txt:272	fodors.txt:82	0.9587867	Jaro	s1:aureole 34 e. 61st st. new york city american (new) 	s2:aureole 34 e. 61st st. new york american 
+zagat.txt:273	fodors.txt:421	0.93884325	Jaro	s1:steak house  the 2880 las vegas blvd. s. las vegas steakhouses 	s2:steak house 2880 las vegas blvd. s las vegas steak houses 
+zagat.txt:274	fodors.txt:30	0.97334987	Jaro	s1:indigo coastal grill 1397 n. highland ave. atlanta eclectic 	s2:indigo coastal grill 1397 n. highland ave. atlanta caribbean 
+zagat.txt:275	fodors.txt:176	0.8679245	Needle	s1:tre visi 3799 las vegas blvd. s. las vegas italian 	s2:bertolini's 3570 las vegas blvd. s las vegas italian 
+zagat.txt:276	fodors.txt:90	0.7519871	Jaro	s1:szechuan kitchen 1460 first ave. new york city chinese 	s2:serendipity 3 225 e. 60th st. new york american 
+zagat.txt:277	fodors.txt:32	0.7014249	Jaro	s1:asahi ramen 2027 sawtelle blvd. west la noodle shops 	s2:ralph's diner 3000 las vegas blvd. s las vegas coffee shops/diners 
+zagat.txt:278	fodors.txt:129	0.78181815	Needle	s1:swan oyster depot 1517 polk st. san francisco seafood 	s2:hayes street grill 320 hayes st. san francisco seafood 
+zagat.txt:279	fodors.txt:52	0.9772913	Jaro	s1:san domenico 240 central park s. new york city italian 	s2:san domenico 240 central park s new york italian 
+zagat.txt:280	fodors.txt:85	0.91497517	Jaro	s1:tillerman  the 2245 e. flamingo rd. las vegas steakhouses 	s2:tillerman 2245 e. flamingo rd. las vegas seafood 
+zagat.txt:281	fodors.txt:146	0.71858615	Jaro	s1:kuruma zushi 2nd fl. new york city japanese 	s2:kuleto's 221 powell st. san francisco italian 
+zagat.txt:282	fodors.txt:77	0.74242425	Jaro	s1:tu lan 8 sixth st. san francisco vietnamese 	s2:postrio 545 post st. san francisco american 
+zagat.txt:283	fodors.txt:8	0.94609404	Jaro	s1:rainbow room 30 rockefeller plaza new york city american (new) 	s2:rainbow room 30 rockefeller plaza new york or 212/632-5100 american 
+zagat.txt:284	fodors.txt:413	0.9548653	Jaro	s1:cafe des artistes 1 w. 67th st. new york city french (classic) 	s2:cafe des artistes 1 w. 67th st. new york continental 
+zagat.txt:285	fodors.txt:491	1.0	Jaro	s1:granita 23725 w. malibu rd. malibu californian 	s2:granita 23725 w. malibu rd. malibu californian 
+zagat.txt:286	fodors.txt:65	0.91899645	Jaro	s1:ciboulette restaurant 1529 piedmont ave. atlanta french (new) 	s2:ciboulette 1529 piedmont ave. atlanta french 
+zagat.txt:287	fodors.txt:186	0.7016667	Jaro	s1:my thai 1248 clairmont rd. atlanta thai 	s2:matsuhisa 129 n. la cienega blvd. beverly hills asian 
+zagat.txt:288	fodors.txt:423	0.9445225	Jaro	s1:jo jo 160 e. 64th st. new york city french bistro 	s2:jo jo 160 e. 64th st. new york american 
+zagat.txt:289	fodors.txt:398	0.7466505	Jaro	s1:majestic 1031 ponce de leon ave. atlanta diners 	s2:mandarin court 1510 e. flamingo rd. las vegas asian 
+zagat.txt:290	fodors.txt:225	0.9260131	Jaro	s1:second avenue deli 156 second ave. new york city delis 	s2:second avenue deli 156 2nd ave. at 10th st. new york delicatessen 
+zagat.txt:291	fodors.txt:271	0.82978725	Needle	s1:dusit thai 3221 mission st. san francisco thai 	s2:manora 3226 mission st. san francisco asian 
+zagat.txt:292	fodors.txt:155	0.9279387	Jaro	s1:sign of the dove 1110 third ave. new york city american (new) 	s2:sign of the dove 1110 3rd ave. at 65th st. new york american 
+zagat.txt:293	fodors.txt:187	0.8865781	Jaro	s1:cafe flore 2298 market st. san francisco californian 	s2:cafe adriano 3347 fillmore st. san francisco italian 
+zagat.txt:294	fodors.txt:171	0.7735849	Needle	s1:riviera 519 e. paces ferry rd. atlanta mediterranean 	s2:bistango 1100 peachtree st. atlanta mediterranean 
+zagat.txt:295	fodors.txt:371	0.8725866	Jaro	s1:chez melange 1716 pch redondo beach eclectic 	s2:chez michel 804 northpoint san francisco french 
+zagat.txt:296	fodors.txt:460	0.694031	Jaro	s1:taiko 11677 san vicente blvd. brentwood noodle shops 	s2:tadich grill 240 california st. san francisco seafood 
+zagat.txt:297	fodors.txt:482	0.73629695	Jaro	s1:pink's famous chili dogs 709 n. la brea ave. la hot dogs 	s2:jack sprat's grill 10668 w. pico blvd. los angeles health food 
+zagat.txt:298	fodors.txt:5	0.8203815	Jaro	s1:la grenouille 3 e. 52nd st. new york city french (classic) 	s2:la grotta 2637 peachtree rd.  peachtree house condominium atlanta italian 
+zagat.txt:299	fodors.txt:67	0.8142762	Jaro	s1:greenwood's 1087 green st. roswell southern/soul 	s2:greens bldg. a fort mason san francisco vegetarian 

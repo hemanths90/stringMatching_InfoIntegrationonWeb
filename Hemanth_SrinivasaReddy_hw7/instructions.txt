@@ -1,0 +1,6 @@
+	Instructions
+1.	Create a new Java project in eclipse
+2.	Add the file “stringMatch.java” in src folder
+3.	Include the additional jar file provided in proper location in your system inside jvm
+4.	Now, compile using : javac stringMatch.java
+5.	Run using: java stringMatch zagat.txt fodors.txt results.txt
